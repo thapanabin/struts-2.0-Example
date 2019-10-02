@@ -18,5 +18,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/nabin/Downloads/struts-2.5.20/lib/commons-lang3-3.8.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
